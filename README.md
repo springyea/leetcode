@@ -5,6 +5,7 @@ It's the solutions about leetcode's problem
 ## 进度  
 | Problem                                               | Difficulty |
 | ----------------------------------------------------- | ---------- |
-| [169.majority-element](./src/169.majority-element.md) | easy       |
-|[300.longest-increasing-subsequence](./src/300.longest-increasing-subsequence.md)|medium|
+| [169.majority-element](./src/169.majority-element.md) | Easy       |
+|[300.longest-increasing-subsequence](./src/300.longest-increasing-subsequence.md)|Medium|  
+|[695.max-area-of-island](./src/695.max-area-of-island.md)|Medium|
 
