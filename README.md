@@ -8,4 +8,4 @@ It's the solutions about leetcode's problem
 | [169.majority-element](./src/169.majority-element.md) | Easy       |
 |[300.longest-increasing-subsequence](./src/300.longest-increasing-subsequence.md)|Medium|  
 |[695.max-area-of-island](./src/695.max-area-of-island.md)|Medium|
-
+|[55.jump-game](./src/55.jump-game.md)|Mediun|
